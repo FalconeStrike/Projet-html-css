@@ -1,0 +1,105 @@
+
+
+.paragrapheDePresentation{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: x-large;
+}
+
+
+p{
+    color:#fe0202;
+    font-size: large;
+}
+p.paragrapheHistoireImage{
+    color: black;
+    font-weight: bold;
+    background-color: rgb(166, 94, 94);
+    border-radius: 10px;
+    
+}
+.paragrapheVisuelDeLaNature{
+    color: black;
+    font-size: x-large;
+    background-color: rgb(166, 94, 94);
+    border-radius: 10px;
+
+}
+
+body{
+    background-color: rgb(159, 142, 100);
+    text-align: center;
+}
+.BodyDeLaPage2{
+    background-image: url(images/argile.jpg);
+    background-size: contain;
+   
+    text-align: center;
+   
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 6em; 
+}
+.banière{
+    padding: 90px; 
+    background-size: cover;
+    background-image: url(images/mapMonde.jpg);
+    background-size: cover;
+}
+h2{
+    font-size: 3em ;
+}
+
+h3{
+    font-size: x-large;
+}
+
+mark{
+    background-color: white;
+    border-radius: 3px;
+}
+
+
+
+
+
+/* Manipilation de la navbar*/
+nav.menu-nav ul li.btn{
+    list-style-type: none;
+    display: inline-block;
+    font-size: 30px;
+    
+    
+}
+
+nav.menu-nav ul li.btn a{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(166, 94, 94);
+    border-radius: 10px
+    ;
+    padding: 10px;
+    
+}
+nav.menu-nav ul li.btn:hover a{
+    color:rgb(166, 94, 94);
+    background-color:white;
+    transition: 0.5s;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
